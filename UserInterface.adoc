@@ -1,0 +1,2 @@
+=== Main Window
+When you run Carla you'll be presented with this window:
