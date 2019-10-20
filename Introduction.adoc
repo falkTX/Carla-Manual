@@ -1,10 +1,14 @@
 
-Carla is...
+=== About Carla
+
+Carla is a fully-featured modular audio plugin host, with support for many audio drivers and plugin formats.
+
+It has some nice features like transport control, automation of parameters via MIDI CC and remote control over OSC.
 
 === About the User Manual
 
-The Manual was divided into several sections:
+This Manual was divided into several sections:
 
 Introduction:: is the first part of the Manual, we're starting with an overview of the application and mowith a few simple tutorials to get the user hands-on with the synthesizer as fast as possible.
-Basic Topics:: is the second part where we start to cover everything from top to bottom. If you're fairly new to Carla, this part should provide you with a comprehensive, yet not overwhelming instruction.
-Advanced Topics:: the third part, where we go into more detail and cover things that were skipped in the previous part. More advanced users should benefit from this part, adding depth to their understanding of the
+Main Topics:: is the second part where we start to cover everything from top to bottom. If you're fairly new to Carla, this part should provide you with a comprehensive, yet not overwhelming instruction.
+// Advanced Topics:: the third part, where we go into more detail and cover things that were skipped in the previous part. More advanced users should benefit from this part, adding depth to their understanding of the

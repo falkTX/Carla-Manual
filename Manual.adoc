@@ -4,7 +4,10 @@
 == Introduction
 include::Introduction.adoc[]
 
-== Basic Topics
+=== Basic Concepts
+include::BasicConcepts.adoc[]
+
+== Main Topics
 
 === User Interface
 include::UserInterface.adoc[]
